@@ -12,7 +12,9 @@ class LocationViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("map")
+        
+        
         // Do any additional setup after loading the view.
     }
 
